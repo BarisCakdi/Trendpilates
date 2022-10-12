@@ -1,0 +1,23 @@
+
+body {
+    text-align: center;
+    background-color:blueviolet;
+
+}
+.a1 {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.a2 {
+    color: blue; list-style-position: outside;
+    font-family: 'Courier New', Courier, monospace; 
+
+}
+.a3{
+    text-align: left;
+    color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+
